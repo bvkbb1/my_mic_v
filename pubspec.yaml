@@ -1,7 +1,9 @@
 name: my_mic_v
 description: "A Flutter plugin for microphone usage."
 version: 0.0.1
-homepage:
+homepage: https://github.com/bvkbb1/my_mic_v
+repository: https://github.com/yourusername/my_mic_v
+issue_tracker: https://github.com/yourusername/my_mic_v/issues
 
 environment:
   sdk: ^3.5.3
